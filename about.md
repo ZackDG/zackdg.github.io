@@ -4,10 +4,5 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+---
+I'm just a guy whose had a lifelong passion for games. Stumbling my way through learning how to make them is one of my pastimes.
