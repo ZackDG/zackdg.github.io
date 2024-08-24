@@ -2,7 +2,7 @@
 markdown:         kramdown
 highlighter:      rouge
 # Setup
-title:            Hydeout
+title:            Zack's Blog
 tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://zackdg.github.io/
@@ -17,7 +17,7 @@ author:
   name:           'Andrew Fong'
   url:            https://twitter.com/fongandrewc
 
-paginate:         5
+paginate:         1
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
@@ -33,5 +33,3 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 remote_theme: fongandrew/hydeout
-paginate: 5
-                                
