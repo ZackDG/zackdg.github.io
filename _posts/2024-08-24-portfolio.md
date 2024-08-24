@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: Portfolio
 excerpt_separator:  <!--more-->
 ---
@@ -43,7 +43,7 @@ Unreleased Tower Defense game built in Unity. Throughout the game players obtain
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tCTfZsbBdxg?si=AcwgKDFlbMid2qXW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Projectile Stress Test
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tCTfZsbBdxg?si=AcwgKDFlbMid2qXW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLhgEOZhZhA?si=W9z6qBVptKASvtln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 3 Bullets
 A game created in 2020 for Mini Jam 46. A real-time puzzle game about finding thieves within a crowd. 
